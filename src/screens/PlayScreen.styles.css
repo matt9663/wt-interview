@@ -1,0 +1,15 @@
+.app-header {
+  background-color: #223547;
+  color: #fff;
+  height: 104px;
+  display: flex;
+  flex: 0 0 100%;
+  align-items: center;
+  padding: 0px 46px;
+}
+
+.title-wrapper {
+  width: 100%;
+  justify-self: center;
+}
+

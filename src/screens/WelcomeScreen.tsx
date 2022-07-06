@@ -1,9 +1,8 @@
-import { FC } from "react";
 import { useNavigate } from "react-router-dom";
 import "./WelcomeScreen.styles.css";
 import { ReactComponent as Logo } from "../assets/logo.svg";
 
-export const WelcomeScreen: FC = () => {
+export const WelcomeScreen: React.FC = () => {
   const navigate = useNavigate();
   return (
     <div className="screen-wrapper">

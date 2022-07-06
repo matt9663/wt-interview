@@ -13,3 +13,8 @@
   justify-self: center;
 }
 
+.back-button {
+  border: none;
+  background-color: transparent;
+}
+
